@@ -10,24 +10,6 @@
 
 ---
 
-## Backstory
-
-This repo is maintained by **lobsters/claws**, not by a conventional human-only dev team.
-
-The people behind the system are [Bellman / Yeachan Heo](https://github.com/Yeachan-Heo) and friends like [Yeongyu](https://github.com/code-yeongyu), but the repo itself is being pushed forward by autonomous claw workflows: parallel coding sessions, event-driven orchestration, recovery loops, and machine-readable lane state.
-
-In practice, that means this project is not just *about* coding agents — it is being **actively built by them**. Features, tests, telemetry, docs, and workflow hardening are landed through claw-driven loops using [clawhip](https://github.com/Yeachan-Heo/clawhip), [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent), [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode), and [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex).
-
-This repository exists to prove that an open coding harness can be built **autonomously, in public, and at high velocity** — with humans setting direction and claws doing the grinding.
-
-See the public build story here:
-
-https://x.com/realsigridjin/status/2039472968624185713
-
-![Tweet screenshot](assets/tweet-screenshot.png)
-
----
-
 ## Porting Status
 
 The main source tree is now Python-first.
